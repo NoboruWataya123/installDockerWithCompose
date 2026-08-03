@@ -63,9 +63,6 @@ docker compose version
 
 echo ""
 echo "✅ Docker and Docker Compose v2 installed successfully!"
-echo "⚠️  Please log out and back in to use Docker without sudo."
-echo ""
-echo "💡 Note: Use 'docker compose' (with space) instead of 'docker-compose'"
 ```
 ## Run
 ```bash
